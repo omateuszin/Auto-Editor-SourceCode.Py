@@ -2,5 +2,5 @@
 - Margem 0,01s
 - Inteface Basica
 - Versão 0.1
-- Trocar diretório para usar
+- Trocar diretório no source para usar
 - Feito com Ia 
